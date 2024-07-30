@@ -1,0 +1,12 @@
+# Ignore class files
+*.class
+
+# Ignore build directories
+/build/
+/out/
+/target/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.bak
